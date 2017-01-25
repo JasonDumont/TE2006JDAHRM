@@ -4,8 +4,8 @@ Collaborative Piece for University Assessment
 #Hints for this tutorial
 Within these hint replace <folder_name> with the appropriate replacement
 
- #Changing Folder
- ###To enter a folder
+#Changing Folder
+###To enter a folder
   To go into a folder type
     cd <folder_name>
 
