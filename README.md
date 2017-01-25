@@ -1,11 +1,6 @@
 # TE2006JDAHRM
 Collaborative Piece for University Assessment
 
-#Information about the project
-
-Code being used
- - An item here
- - Another item here
 #Hints for this tutorial
 Within these hint replace <folder_name> with the appropriate replacement
 
@@ -20,6 +15,25 @@ Within these hint replace <folder_name> with the appropriate replacement
 
   To exit more than one layer
     cd ../../
+
+###To create a new branch
+    git branch <branch_name_here>
+
+###To change merge
+    git checkout <the_branch_you_want_to_change_to>
+
+    //Checkout the changes to make sure they work
+
+    Then upload them to git
+
+    git push
+
+###To merge branches after agreement
+    First change to the branch you want to merge in to
+
+    Then type
+
+    git merge <the_branch_your_merging>
 
 ###Process for uploading
 
